@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box  ;
+}
+body{
+    min-height: 100vh;
+    background-color: plum;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+   display: inline;
+    color: purple;
+    font-family: sans-serif;
+    font-size: 38px;
+}
+h1{
+    padding: 10px 0;
+}
+#weekday{
+    font-size: 70px;
+    color: rgb(82, 4, 82);
+    padding: 10px 30px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#quote{
+    padding: 10px 20px;
+   
+    font-size: 20px;
+}
